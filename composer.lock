@@ -2067,7 +2067,7 @@
                 "shasum": ""
             },
             "require": {
-                "illuminate/contracts": "^7.0|^8.0",
+                "illuminate/contracts": "^5.7|^7.0|^8.0",
                 "mockery/mockery": "^1.4",
                 "php": "^7.4|^8.0"
             },
@@ -8272,7 +8272,7 @@
             },
             "require": {
                 "ext-json": "*",
-                "illuminate/contracts": "^7.20|^8.0",
+                "illuminate/contracts": "^5.7|^7.20|^8.0",
                 "illuminate/database": "^7.20|^8.13",
                 "illuminate/queue": "^7.20|^8.13",
                 "illuminate/support": "^7.20|^8.13",
